@@ -2,7 +2,7 @@ Après avoir compilé le code et constaté l'absence des images, notamment les i
 
 
 
-un fichier build sera automatiquement créé dans le dossier  "C++_Projet _ Cards_Game".
+un fichier build sera automatiquement créé dans le dossier  du jeu .
 
 
 
