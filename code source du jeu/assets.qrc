@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/fencing.png</file>
+        <file>assets/crown.png</file>
+        <file>assets/star.png</file>
+        <file>assets/r.png</file>
+        <file>assets/award.png</file>
+        <file>assets/icons8.png</file>
+        <file>assets/93c5.gif</file>
+        <file>assets/93dx.gif</file>
+    </qresource>
+</RCC>
